@@ -1,2 +1,11 @@
 # fai
-Testovací
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+_hurá_
+
+**joooo**
